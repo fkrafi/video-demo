@@ -1,4 +1,4 @@
-var socket = io({path: '/'});
+var socket = io();
 
 //our username 
 var name;
